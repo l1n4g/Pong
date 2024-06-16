@@ -1,1 +1,1 @@
-# Js.Pong
+# Pong
